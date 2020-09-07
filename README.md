@@ -4,5 +4,4 @@ So i made this repl, lets see in how many languages we can say Hello world!.
 
 Please share your code on how to do so in the comments, and also the command on how to run that file if possible. Thanks!
 
-Also, please upvote and share so more people see this and we can reach a huge amount of languages!
 ![image](https://storage.googleapis.com/replit/images/1599471085538_8e0302246c322f63522c614c72b59422.png)
