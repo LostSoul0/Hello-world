@@ -7,10 +7,3 @@ Please share your code on how to do so in the comments, and also the command on 
 Also, please upvote and share so more people see this and we can reach a huge amount of languages!
 ![image](https://storage.googleapis.com/replit/images/1599471085538_8e0302246c322f63522c614c72b59422.png)
 )
-
-Contributons:
-[Python](https://www.python.org/): @Lost0Soul
-HTML: @Lost0Soul
-[Js](https://www.javascript.com/): @Lost0Soul
-[Java](https://www.java.com/): @Lost0Soul
-[PHP](https://www.php.net/): @Lost0Soul
