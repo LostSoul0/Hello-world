@@ -1,0 +1,7 @@
+event Init :: ()
+
+on Init {
+  Serial
+    :begin {baudRate 9600}
+    :println {? "Hello, world!"}
+}
